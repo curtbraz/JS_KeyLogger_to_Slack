@@ -33,8 +33,9 @@ Test it out with something as simple as this :
 </HTML>
 ```
 
+
 <p align="center"><img align="center" alt="Client Example" src="https://s22.postimg.cc/nk5u28dep/Capture.png">
-  <b><br>Figure 1: Client Example</b></p>
+  <b><br>Figure 1: Client Example</b></p><br><br>
 
 
 
