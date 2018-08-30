@@ -33,6 +33,7 @@ Test it out with something as simple as this :
 </HTML>
 ```
 
-<p align="center"><img align="center" alt="Client Example" src="https://s22.postimg.cc/nk5u28dep/Capture.png"></p>
+<p align="center"><img align="center" alt="Client Example" src="https://s22.postimg.cc/nk5u28dep/Capture.png">
+*Client Example*</p>
 
-<p align="center"><img align="center" width="400" alt="Watching in Slack" src="https://s22.postimg.cc/4rtyynoq9/Capture2.png"></p>
+<p align="center"><img align="center" width="400" alt="Watching in Slack" src="https://s22.postimg.cc/4rtyynoq9/Capture2.png">*Watching in Slack*</p>
