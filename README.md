@@ -14,7 +14,8 @@ Host the Keylogger server-side PHP API (kl.php) on your web server and be sure t
 
 Test it out with something as simple as this : 
 
-```<HTML>
+```
+<HTML>
 <BODY>
 <SCRIPT SRC="https://YOUR_DOMAIN_HERE/kl.js">
 </SCRIPT>
@@ -29,7 +30,8 @@ Test it out with something as simple as this :
 <BUTTON TYPE="button">SUBMIT</BUTTON>
 </CENTER>
 </BODY>
-</HTML>```
+</HTML>
+```
 
 <p align="center"><img align="center" width="600" alt="Client Example" src="https://s22.postimg.cc/txux5hial/Capture.png"></p>
 
