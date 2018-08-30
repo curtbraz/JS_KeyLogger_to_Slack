@@ -31,6 +31,6 @@ Test it out with something as simple as this :
 </BODY>
 </HTML>```
 
-<p align="center"><img align="center" width="600" alt="Client Example" src=""></p>
+<p align="center"><img align="center" width="600" alt="Client Example" src="https://s22.postimg.cc/txux5hial/Capture.png"></p>
 
-<p align="center"><img align="center" width="600" alt="Watching in Slack" src=""></p>
+<p align="center"><img align="center" width="600" alt="Watching in Slack" src="https://s22.postimg.cc/q1hl9i50t/Capture2.png"></p>
